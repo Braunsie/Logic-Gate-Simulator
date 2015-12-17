@@ -1,6 +1,5 @@
 // Author:  Chris Brauns and Lorenzo Pizarro
 // Date:    11/17/15
-// Purpose: To pass the class
 
 #include "Circuit.h"
 
