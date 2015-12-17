@@ -1,6 +1,5 @@
 // Author:  Chris Brauns and Lorenzo Pizarro
 // Date:    11/17/15
-// Purpose: To pass the class
 
 // The following pattern is used to prevent multiple inclusion 
 // of class definitions
